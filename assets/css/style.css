@@ -11,7 +11,7 @@ img{
 
 
 .bg1{
-    background-image: url('https://images2.alphacoders.com/936/thumb-1920-936108.png');
+    background-color: rgb(98,176,241);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,8 +28,7 @@ img{
 .imagem-lado{
     border-top-left-radius: 25px;
     border-bottom-left-radius:25px ;
-    background: rgba(255, 255, 255, 0.019);
-    backdrop-filter: blur(25px);
+    background-color: rgb(220,236,252);
     width: 60%;
     height: 100%;
     display: flex;
@@ -47,8 +46,7 @@ h1{
     align-items: center;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px ;
-    background: rgba(255, 255, 255, 0.019);
-    backdrop-filter: blur(25px);
+    background-color: white;
     height: 100%;
     width: 40%;
 }
