@@ -31,6 +31,9 @@ img{
     background-color: rgb(220,236,252);
     width: 60%;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 h1{
     text-align: center;
@@ -53,6 +56,7 @@ form{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-content: space-around;
 }
 input{
     height: 25px;
