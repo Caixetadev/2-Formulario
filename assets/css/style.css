@@ -80,6 +80,7 @@ a{
 }
 
 .submit{
+    outline: 0;
     color: white;
     cursor: pointer;
     border: none;
@@ -96,9 +97,9 @@ a{
    
 }
 .submit:active{
-    border:rgb(79,160,237) solid 2px ;
-    background-color: rgba(61, 61, 61, 0.548);
-    color: rgb(79,160,237);
+    border:rgba(255, 255, 255, 0.705) solid 2px ;
+    background-color: rgba(90, 177, 97, 0.548);
+    color: rgb(255, 255, 255);
     
 }
 
@@ -131,7 +132,7 @@ h1{
 
 .bg-login{
     display: flex;
-    width: 50vw;
+    width: 70vw;
     height: 70vh;}
 .imagem-lado{
     border-top-left-radius: 25px;
